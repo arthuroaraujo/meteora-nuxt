@@ -31,7 +31,7 @@
                 />
               </div>
               <div class="mt-5">
-                <VBtn type="submit" block min-height="44" class="gradient primary">Sign In</VBtn>
+                <VBtn type="submit" block min-height="44" class="gradient primary" to="/main">Sign In</VBtn>
               </div>
             </VForm>
             <p class="text-body-2 mt-10">
@@ -50,7 +50,7 @@
           </VCol>
         </VRow>
       </VCol>
-      <VCol class="hidden-md-and-down fill-height" md="6" lg="7">
+      <!-- <VCol class="hidden-md-and-down fill-height" md="6" lg="7">
         <VImg
           src="https://wallpaper.dog/large/5557744.jpg"
           cover
@@ -65,7 +65,7 @@
             </p>
           </div>
         </VImg>
-      </VCol>
+      </VCol> -->
     </VRow>
   </VContainer>
 </template>

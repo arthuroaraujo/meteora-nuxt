@@ -55,7 +55,7 @@
           </VCol>
         </VRow>
       </VCol>
-      <VCol class="hidden-md-and-down fill-height" md="6" lg="7">
+      <!-- <VCol class="hidden-md-and-down fill-height" md="6" lg="7">
         <VImg
           src="https://wallpaper.dog/large/5557744.jpg"
           cover
@@ -70,7 +70,7 @@
             </p>
           </div>
         </VImg>
-      </VCol>
+      </VCol> -->
     </VRow>
   </VContainer>
 </template>
